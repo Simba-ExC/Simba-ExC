@@ -121,3 +121,7 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
     From the age of 16 I worked at the Moscow Machine-building Enterprise named after V.V. Chernyshev. 
     First in technical support of users, then as a programmer of numerically controlled machines. 
     Since 2021, I have been working as a software engineer at GALEN, implementing and developing the LIS ALICE laboratory information system
+
+### :page_facing_up: My certificates
+
+[World skils](certificates/WorldSkills Russia.pdf)
