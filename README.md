@@ -124,4 +124,4 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :page_facing_up: My certificates
 
-[World skils](certificates/WorldSkills Russia.pdf)
+[WorldSkills Russia](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
