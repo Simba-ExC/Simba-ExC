@@ -124,4 +124,32 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :page_facing_up: My certificates
 
+[Диплом Колледж](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
+
+[Диплом Университет](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
+
 [WorldSkills Russia](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
+
+[Английский для программистов](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Английский%20для%20программистов.pdf)
+
+[Базовое программирование на C++](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Базовое%20программирование%20на%20C%2B%2B.pdf)
+
+[Основы программирования на C++](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Основы%20программирования%20на%20C%2B%2B.pdf)
+
+[Продвинутое программирование на С++](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Продвинутое%20программирование%20на%20С%2B%2B.pdf)
+
+[Алгоритмы и структуры данных](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Алгоритмы%20и%20структуры%20данных.pdf)
+
+[Работа с базами данных]()
+
+[Многопоточное и асинхронное программирование]()
+
+[Шаблоны проектирования в C++]()
+
+[Кроссплатформенная разработка на Qt]()
+
+[Разработка умных вещей (IoT)]()
+
+[Разработка видеоигр на Unreal Engine 4]()
+
+[Диплом Нетологии]()
