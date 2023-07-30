@@ -146,7 +146,7 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [Многопоточное и асинхронное программирование](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Многопоточное%20и%20асинхронное%20программировани.pdf)
 
-[Шаблоны проектирования в C++]()
+[Шаблоны проектирования в C++](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Шаблоны%20проектирования%20в%20С%2B%2B.pdf)
 
 [Кроссплатформенная разработка на Qt]()
 
