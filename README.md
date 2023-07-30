@@ -6,10 +6,10 @@
   <a href="https://t.me/simba_exc">
     <img src="https://img.shields.io/badge/Instagram-56040?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="VK">
+  <a href="https://t.me/simba_exс">
     <img src="https://img.shields.io/badge/VK-597da3?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="telegram">
+  <a href="https://t.me/simba_exс">
     <img src="https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
