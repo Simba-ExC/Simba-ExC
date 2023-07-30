@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="Instagram">
+  <a href="https://t.me/simba_exc">
     <img src="https://img.shields.io/badge/Instagram-56040?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="VK">
