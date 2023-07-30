@@ -124,9 +124,9 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :page_facing_up: My certificates
 
-[Диплом Колледж](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
+[Диплом Колледж]()
 
-[Диплом Университет](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
+[Диплом Университет]()
 
 [WorldSkills Russia](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
 
@@ -144,7 +144,7 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [Работа с базами данных]()
 
-[Многопоточное и асинхронное программирование]()
+[Многопоточное и асинхронное программирование](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Многопоточное%20и%20асинхронное%20программировани.pdf)
 
 [Шаблоны проектирования в C++]()
 
