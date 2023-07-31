@@ -124,9 +124,11 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :page_facing_up: My certificates
 
-[Диплом Колледж]()
+[Диплом Колледжа](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Диплом%20колледж.pdf)
 
-[Диплом Университет]()
+[Диплом Университета](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Диплом%20уник.pdf)
+
+[Конкурс выпускных квалификационынх работ](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/конкурс%20работ.pdf)
 
 [WorldSkills Russia](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/WorldSkills%20Russia.pdf)
 
