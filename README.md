@@ -144,7 +144,7 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [Продвинутое программирование на С++](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Продвинутое%20программирование%20на%20С%2B%2B.pdf)
 
-[Работа с базами данных]()
+[Работа с базами данных](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Работа%20с%20базами%20данных%20c%2B%2B.pdf)
 
 [Многопоточное и асинхронное программирование](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Многопоточное%20и%20асинхронное%20программировани.pdf)
 
