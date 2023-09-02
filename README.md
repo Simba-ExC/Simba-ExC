@@ -150,7 +150,7 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [Шаблоны проектирования в C++](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Шаблоны%20проектирования%20в%20С%2B%2B.pdf)
 
-[Кроссплатформенная разработка на Qt]()
+[Кроссплатформенная разработка на Qt](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Кроссплатформенная%20разработка%20нa%20Qt.pdf)
 
 [Разработка умных вещей (IoT)]()
 
