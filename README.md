@@ -154,6 +154,6 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [Разработка умных вещей (IoT)]()
 
-[Разработка видеоигр на Unreal Engine 4]()
+[Разработка видеоигр на Unreal Engine 4](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Разработка%20видеоигр%20на%20Unreal%20Engine%204.pdf)
 
 [Диплом Нетологии]()
