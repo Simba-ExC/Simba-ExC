@@ -113,14 +113,13 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :man_technologist: About Me :
 
-    Born in Moscow in 1998. I graduated from the Physics and Mathematics school in 2014.
-    Then I entered the Moscow College of Computer Science and Computing Technologies (MTIiVT). 
-    In 2018, after graduating from college, I joined the army, where I studied Morse code and was a signalman. 
-    In 2022, I graduated from the Moscow Automobile and Road State Technical University (MADI) with a red diploma.
-    
-    From the age of 16 I worked at the Moscow Machine-building Enterprise named after V.V. Chernyshev. 
-    First in technical support of users, then as a programmer of numerically controlled machines. 
-    Since 2021, I have been working as a software engineer at GALEN, implementing and developing the LIS ALICE laboratory information system
+    I was born in Moscow in 1998 and from an early age, I was fascinated by science and technology. My educational journey began at a physics and mathematics school, which I graduated from in 2014. I then continued my studies at the Moscow College of Computer Science and Computing Technologies (MTIiVT), immersing myself in the world of information technology.
+
+My professional journey started with employment at the Moscow Machine-building Enterprise named after V.V. Chernyshev, where from the age of 16, I actively participated in technical user support and later transitioned to programming CNC machines.
+
+In 2021, I joined the team at GALEN as a software engineer, where I implemented and developed the LIS ALICE laboratory information system. My work there allowed me to expand my skills in software development.
+
+Since 2024, I have been continuing my professional career at Mindray as an IT specialist. My responsibilities include supporting the operation of IVD instruments with LIS systems and implementing new projects in the Russian market. I am inspired by the opportunity to contribute to the advancement of modern technologies and ensure their effective use for improving people's lives.
 
 ### :page_facing_up: My certificates
 
