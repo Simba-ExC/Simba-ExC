@@ -152,8 +152,8 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [Кроссплатформенная разработка на Qt](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Кроссплатформенная%20разработка%20нa%20Qt.pdf)
 
-[Разработка умных вещей (IoT)]()
+[Разработка умных вещей (IoT)](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Разработка%20умных%20вещей%20(IoT).pdf)
 
 [Разработка видеоигр на Unreal Engine 4](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Разработка%20видеоигр%20на%20Unreal%20Engine%204.pdf)
 
-[Диплом Нетологии]()
+[Диплом Нетологии](https://github.com/Simba-ExC/Simba-ExC/blob/main/certificates/Разработчик%20C%2B%2B.pdf)
