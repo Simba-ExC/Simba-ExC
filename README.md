@@ -114,12 +114,9 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :man_technologist: About Me :
 
     I was born in Moscow in 1998 and from an early age, I was fascinated by science and technology. My educational journey began at a physics and mathematics school, which I graduated from in 2014. I then continued my studies at the Moscow College of Computer Science and Computing Technologies (MTIiVT), immersing myself in the world of information technology.
-
-My professional journey started with employment at the Moscow Machine-building Enterprise named after V.V. Chernyshev, where from the age of 16, I actively participated in technical user support and later transitioned to programming CNC machines.
-
+  My professional journey started with employment at the Moscow Machine-building Enterprise named after V.V. Chernyshev, where from the age of 16, I actively participated in technical user support and later transitioned to programming CNC machines.
 In 2021, I joined the team at GALEN as a software engineer, where I implemented and developed the LIS ALICE laboratory information system. My work there allowed me to expand my skills in software development.
-
-Since 2024, I have been continuing my professional career at Mindray as an IT specialist. My responsibilities include supporting the operation of IVD instruments with LIS systems and implementing new projects in the Russian market. I am inspired by the opportunity to contribute to the advancement of modern technologies and ensure their effective use for improving people's lives.
+  Since 2024, I have been continuing my professional career at Mindray as an IT specialist. My responsibilities include supporting the operation of IVD instruments with LIS systems and implementing new projects in the Russian market. I am inspired by the opportunity to contribute to the advancement of modern technologies and ensure their effective use for improving people's lives.
 
 ### :page_facing_up: My certificates
 
