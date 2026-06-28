@@ -30,19 +30,6 @@
 ###  My key Skills:
 Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- I  program in C++;
-- I understand modern C++ and STL;
-- I work with the version control system Git and GitHub;
-- I test the code and write autotests in C++;
-- I use algorithms and data structures to optimize applications;
-- I am able to work in multithreaded and asynchronous programming approaches;
-- I use design patterns in my work;
-- Create multi-file projects and assemble them using CMake;
-- At the basic level, I create and work with databases;
-- I write simple SQL queries;
-- I create video games on the Unreal Engine 4 engine;
-- I develop cross-platform graphical applications on Qt;
-- Creating simple Smart Home (IoT) applications.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -64,18 +51,6 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### Additional Key Skills
 
-- Program in python;
-- Know how to develop single-page websites;
-- Know how to work in the LogoSoft software package;
-- Know 1C:Enterprise;
-- Know circuit engineering and know how to build and model logic circuits;
-- The basic concept of assembler;
-- Know algorithms and data structures;
-- Can do design in figma;
-- Know how to develop software applications .NET on C#;
-- Build databases in various DBMS;
-- Can create web applications on Flask;
-- Know how to perform data analysis on python.
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="60" height="60"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -110,16 +85,6 @@ Developer in C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simba-ExC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :man_technologist: About Me :
-
-      I was born in Moscow in 1998 and from an early age, I was fascinated by science and technology. My educational journey began at a physics and mathematics school, which I graduated from in 2014. I then continued my studies at the Moscow College of Computer Science and Computing Technologies (MTIiVT), immersing myself in the world of information technology.
-    
-      My professional journey started with employment at the Moscow Machine-building Enterprise named after V.V. Chernyshev, where from the age of 16, I actively participated in technical user support and later transitioned to programming CNC machines.
-    
-      In 2021, I joined the team at GALEN as a software engineer, where I implemented and developed the LIS ALICE laboratory information system. My work there allowed me to expand my skills in software development.
-    
-      Since 2024, I have been continuing my professional career at Mindray as an IT specialist. My responsibilities include supporting the operation of IVD instruments with LIS systems and implementing new projects in the Russian market. I am inspired by the opportunity to contribute to the advancement of modern technologies and ensure their effective use for improving people's lives.
 
 ### :page_facing_up: My certificates
 
